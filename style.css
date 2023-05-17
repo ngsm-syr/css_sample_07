@@ -48,6 +48,6 @@ footer {
   transition: transform .5s;
 }
 
-.expansion:hover img {
+.expansion img:hover {
   transform: scale(1.1);
 }
